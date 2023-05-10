@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    color: white;
+    font-size: 26px;
+    font-weight: bolder;
+    margin: 0px;
+}
+
+.note{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.heading:hover{
+    font-size: 30px;
+}
+
+.note:hover{
+    font-size: 16px;
+}
+
+h3{
+    color:aqua;
+    font-size: 23px;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+canvas{
+    border:7px solid white;
+}
